@@ -128,7 +128,7 @@ These visuals allow stakeholders to instantly identify credit risk patterns and 
 
 ## 🖼 Dashboard Preview
 
-  ![executive Summary](https://github.com/Analystfaizan/demo/blob/e423203f38752ff990b9537736eeb11c19943773/Executive%20Summary.png)
+  ![executive Summary](https://github.com/Analystfaizan/Bank-Loan-Performance/blob/c0fcb7c0f2b293471478dbc44296c63eaab2775d/Screeenshots/Executive_Summary.png)
   ![Customer Analysis](https://github.com/Analystfaizan/demo/blob/6a3e782532fbefd1588f6e623cf268f6e798076a/Customer%20Credit%20Analysis.png)
   ![Risk Analysis](https://github.com/Analystfaizan/demo/blob/5a231f05924c059bf29aaaf957c65e7c39c1e579/Risk%20Analysis.png)
   
